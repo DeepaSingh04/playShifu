@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 require("dotenv").config();
 
-const Product = require("./product.model"); // Adjust the path as necessary
+const Product = require("./product.model"); 
 
 const dummyProduct = {
   name: "Junior Genius Pack",
