@@ -296,7 +296,7 @@
   }
   
   .sale-tag {
-    background-color: #ff4e4e;
+    background-color: #e92323;
     color: white;
     font-size: 10px;
     padding: 2px 8px;
@@ -354,7 +354,7 @@
   
   .hero-cta {
     display: inline-block;
-    background: #68005f;
+    background: #ad10a0b7;
     color: white;
     font-size: 1.1rem;
     font-weight: 600;
@@ -411,7 +411,7 @@
   .shape-1 {
     width: 120px;
     height: 120px;
-    background: linear-gradient(135deg, #a78bfa 0%, #7b3fe4 100%);
+    /* background: linear-gradient(135deg, #9082b1 0%, #7b3fe4 100%); */
     top: 15%;
     left: 10%;
     animation: floatShape1 8s infinite ease-in-out;
@@ -421,7 +421,7 @@
   .shape-2 {
     width: 160px;
     height: 160px;
-    background: linear-gradient(135deg, #93c5fd 0%, #3b82f6 100%);
+    /* background: linear-gradient(135deg, #93c5fd 0%, #3b82f6 100%); */
     bottom: 20%;
     right: 10%;
     animation: floatShape2 10s infinite ease-in-out;
@@ -431,7 +431,7 @@
   .shape-3 {
     width: 80px;
     height: 80px;
-    background: linear-gradient(135deg, #c4b5fd 0%, #8b5cf6 100%);
+    /* background: linear-gradient(135deg, #c4b5fd 0%, #8b5cf6 100%); */
     bottom: 30%;
     left: 20%;
     animation: floatShape3 6s infinite ease-in-out;
@@ -781,12 +781,12 @@
   }
   
   .add-to-cart-btn {
-    background-color: #4863D4;
+    background-color: #4e2994d0;
     color: white;
   }
   
   .add-to-cart-btn:hover {
-    background-color: #3a52bf;
+    background-color: #a484e0d0;
   }
   
   .buy-now-btn {
@@ -986,7 +986,7 @@
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-    background: #fff;
+    background: #7c4fd12f;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
   }
   
@@ -1000,7 +1000,7 @@
     height: 427px;
     object-fit: cover;
     border-radius: 12px;
-    background-color: #f8f8f8;
+    background-color: #8130b863;
   }
   
   .reel-video-overlay {
@@ -1142,7 +1142,7 @@
   .whats-in-box h2 {
     font-size: 1.8rem;
     margin-bottom: 1.5rem;
-    color: #333;
+    color: #210e55;
     text-align: center;
   }
   
@@ -1165,7 +1165,7 @@
   .box-item:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-    background-color: #f9f9f9;
+    background-color: #ba7eec4d;
   }
   
   .box-item img {
@@ -1195,7 +1195,7 @@
   .free-games h2 {
     font-size: 1.8rem;
     margin-bottom: 1.5rem;
-    color: #333;
+    color: #17093f;
     text-align: center;
   }
   
@@ -1218,7 +1218,7 @@
   .game-card:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
-    background-color: #f9f9f9;
+     background-color: #b2a7f18e; 
   }
   
   .game-card img {
@@ -1227,9 +1227,9 @@
     object-fit: contain;
     margin-bottom: 1rem;
     border-radius: 8px;
-    border: 1px solid #eee;
+    border: 1px solid #ada3e971;
     padding: 0.8rem;
-    background-color: #fff;
+    background-color: #dfd2d2;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
   }
   
@@ -1243,7 +1243,7 @@
   /* Device Compatibility Section */
   .device-compatibility {
     margin: 3rem 0;
-    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    background: linear-gradient(135deg, #88b8e7 0%, #064380 100%);
     padding: 3rem 2rem;
     border-radius: 20px;
     position: relative;
@@ -1369,7 +1369,7 @@
   }
   
   .device-note {
-    background: #68005f;
+    background: #61245c;
     color: white;
     padding: 1.5rem;
     border-radius: 12px;
@@ -1496,7 +1496,7 @@
   }
   
   .related-product button {
-    background-color: #7b3fe4;
+    background-color: #240658;
     color: white;
     border: none;
     padding: 0.5rem 1rem;
